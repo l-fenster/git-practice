@@ -1,1 +1,3 @@
+Name: Leah
+Age: 24
 Favorite Color: Green
